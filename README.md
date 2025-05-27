@@ -12,7 +12,7 @@ Repositorio para el diseño y documentación de la infraestructura de red de una
 - Segmentar la red para mejorar el rendimiento y la seguridad.
 - Facilitar la colaboración entre los equipos mediante el uso de herramientas como GitHub y Webex.
 
----
+
 
 ## 🏢 Departamentos Incluidos
 
@@ -26,7 +26,7 @@ Repositorio para el diseño y documentación de la infraestructura de red de una
 3. **Administración**
    - Gestión de recursos humanos, finanzas y operaciones internas.
 
----
+
 
 ## 🌐 Dirección IP y Subredes Asignadas
 
@@ -52,20 +52,4 @@ Supongamos que usamos la red base **192.168.10.0/24**. La segmentación sería:
 
 *Cada integrante puede colaborar en distintas fases del proyecto y debe sincronizar sus avances mediante Git.*
 
----
 
-## 🛠 Herramientas Utilizadas
-
-- **Cisco Packet Tracer**: para el diseño y simulación de la red.
-- **Git y GitHub**: para control de versiones y trabajo colaborativo.
-- **Webex**: para reuniones, coordinación y revisión de avances.
-
----
-
-## ✅ Estado del Proyecto
-
-- [x] Repositorio creado en GitHub
-- [ ] Red diseñada en Packet Tracer
-- [ ] Archivo `.pkt` añadido al repositorio
-- [ ] Reuniones realizadas por Webex
-- [ ] Presentación final preparada
